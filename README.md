@@ -17,6 +17,8 @@ An intelligent essay annotation system that combines OCR and NLP technologies to
 - `test_main.py` - Testing and validation
 
 ## Installation
+Install Ollama
+https://ollama.com/
 
 Clone the repository:
 ```bash
